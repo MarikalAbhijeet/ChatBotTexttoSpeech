@@ -367,8 +367,7 @@ From the technology perspective, speech recognition has a long history with seve
   
 }
 
-<img src="media/6a8cb80c38f86957546832e80ecb3810.png" alt="Image description" width="200"/>
-<img src="media/c9dec2a549378101e0a3d70ac80d3420.png" alt="Image description" width="200"/>
+<img src="media/6a8cb80c38f86957546832e80ecb3810.png" alt="Image description" width="200"/> <img src="media/c9dec2a549378101e0a3d70ac80d3420.png" alt="Image description" width="200"/>
 
 
 **SCREENSHOTS OF APP:**
@@ -377,6 +376,5 @@ From the technology perspective, speech recognition has a long history with seve
 <img src="media/8f4c429c1fadc42e402f6ef8a2502a3e.png" width="200"/>
 <img src="media/fe7a4ed444417939144bc9650e0554ca.png" width="200"/>
 <img src="media/2af985c0137caab3d3a4136592815176.png" width="200"/>
-
 <img src="media/6e7f2d9740d5b7f640e32a17999a46d2.png" width="200"/>
 <img src="media/2c44b6a148f6c60be87914e6b3ab3fe4.png" width="200"/>
