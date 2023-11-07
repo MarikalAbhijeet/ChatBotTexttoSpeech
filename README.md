@@ -1,47 +1,6 @@
-![](media/9f4f28a380919393844ffb2b7b02308d.png)
 
-ARTIFICIAL INTELLIGENCE   
-(CSE3013)
+# **CHATBOT APP (J.A.R.V.I.S BOT)**
 
-TOPIC: -
-
-**CHATBOT APP (J.A.R.V.I.S BOT)**
-
-(An J Component Report)
-
-*Submitted by*
-
-TEAM MEMBERS:
-
-**ADITYA.P. ARAVIND - 17BCE0172**
-
-**ABHIJEET MARIKAL- 17BCI0009**
-
-**SACHIN RAJ G.S - 17BCI0120**
-
-*Faculty: Prof. Delhi Babu R*
-
-**School of Computing Science and Engineering**
-
-**APRIL 2019**
-
-![](media/9f4f28a380919393844ffb2b7b02308d.png)
-
-**School of Computer Science and Engineering**
-
-**DECLARATION**
-
-I hereby declare that the J Component report entitled “CHATBOT APP” submitted by me to Vellore Institute of Technology, Vellore-14 in partial fulfilment of the requirement for the award of the degree of B.Tech in Computer science and engineering is a record of bonafide undertaken by me under the supervision of **Dr. R. Delhi Babu** I further declare that the work reported in this report has not been submitted and will not be submitted, either in part or in full, for the award of any other degree or diploma in this institute or any other institute or university.
-
-**ABSTRACT**
-
-Chatbots, or conversational interfaces as they are also known, present a new way for individuals to interact with computer systems. Traditionally, to get a question answered by a software program involved using a search engine or filling out a form. A chatbot allows a user to simply ask questions in the same manner that they would address a human. The most well-known chatbots currently are voice chatbots: Alexa and Siri. However, chatbots are currently being adopted at a high rate on computer chat platforms.
-
-The technology at the core of the rise of the chatbot is natural language processing (“NLP”). Recent advances in machine learning have greatly improved the accuracy and effectiveness of natural language processing, making chatbots a viable option for many organizations. This improvement in NLP is firing a great deal of additional research which should lead to continued improvement in the effectiveness of chatbots in the years to come.
-
-A simple chatbot can be created by loading an FAQ (frequently asked questions) into chatbot software. The functionality of the chatbot can be improved by integrating it into the organization’s enterprise software, allowing more personal questions to be answered, like “What is my balance?”, or “What is the status of my order?”.
-
-Most commercial chatbots are dependent on platforms created by the technology giants for their natural language processing. These include Amazon Lex, Microsoft Cognitive Services, Google Cloud Natural Language API, Facebook DeepText, and IBM Watson. Platforms where chatbots are deployed include Facebook Messenger, Skype, and Slack, among many others.
 
 **INTRODUCTION**
 
@@ -69,7 +28,8 @@ A chatbot is an AI agent that can participate in a conversation with a user. Mos
 
 Most basic chatbots work by matching a user input with a predefined set of dialogs. For example, a user saying, “Thank you” will result in the chatbot saying “You’re Welcome”. The predefined set of dialogs can be set up to imitate a normal conversation between two people. Problems can arise when a user says something the chatbot does not recognize, an example could be the user meaning to say, “Thank you”, but instead says “Thanks a lot”, this can confuse the chatbot as it will be looking to match the “Thank you” input with “Welcome”. This leads to a lot of manual work by trying to define every combination of a user saying “Thanks”.
 
-![](media/4d11a035ee9a0312cf5ae7107e05a0fc.png)Modern chatbots are more complex and feature natural language processing that can learn from user inputs. They can access APIs to get information users such as news, weather, time etc. They can even process orders and make bookings entirely through a chatbot interface.
+![](media/4d11a035ee9a0312cf5ae7107e05a0fc.png)  
+Modern chatbots are more complex and feature natural language processing that can learn from user inputs. They can access APIs to get information users such as news, weather, time etc. They can even process orders and make bookings entirely through a chatbot interface.
 
 **APPLICATIONS**
 
@@ -407,54 +367,16 @@ From the technology perspective, speech recognition has a long history with seve
   
 }
 
-![](media/6a8cb80c38f86957546832e80ecb3810.png)![](media/c9dec2a549378101e0a3d70ac80d3420.png)
+<img src="media/6a8cb80c38f86957546832e80ecb3810.png" alt="Image description" width="200"/>
+<img src="media/c9dec2a549378101e0a3d70ac80d3420.png" alt="Image description" width="200"/>
+
 
 **SCREENSHOTS OF APP:**
 
-![](media/f318cf5514d424aac18b1aef82103a98.png)![](media/8f4c429c1fadc42e402f6ef8a2502a3e.png)
+<img src="media/f318cf5514d424aac18b1aef82103a98.png" width="200"/>
+<img src="media/8f4c429c1fadc42e402f6ef8a2502a3e.png" width="200"/>
+<img src="media/fe7a4ed444417939144bc9650e0554ca.png" width="200"/>
+<img src="media/2af985c0137caab3d3a4136592815176.png" width="200"/>
 
-![](media/fe7a4ed444417939144bc9650e0554ca.png)![](media/2af985c0137caab3d3a4136592815176.png)
-
-![](media/6e7f2d9740d5b7f640e32a17999a46d2.png)
-
-![](media/2c44b6a148f6c60be87914e6b3ab3fe4.png)
-
-**CONCLUSION**
-
-In this paper, we have introduced a chatbot application in android which is able to interact with users. This chatbot can answer for queries in the textual as well as in voice form of user input. For this purpose, AIML has been used. The chatbot can answer only those questions which he has the answer in its dataset. So, to increase the knowledge of the chatbot, we can add the APIs of Wikipedia, Weather Forecasting Department, Sports, News, Government Services and a lot more. In such cases, the user will be able to talk and interact with the chatbot in any domain. Using the APIs like Weather, Sports, News and Government Services, the chatbot will be able to answer the questions outside of its Dataset and which are currently happening in the real world.
-
-**REFERENCES:**
-
-[1] Program-O \| Github Program-O Home URL https://github.com/Program-O/Program-O
-
-[2] Shawar BA, Atwell E, “A comparison between Alice and Elizabeth chatbot system,”University of Leeds, School of Computing research report
-
-2002.19
-
-[3] Bayan AbuShawar,Eric Atwell, “ALICE Chatbot: Trials and Outputs,”Computación y Sistemas, Vol. 19, No. 4, 2015, pp. 625–632
-
-[4] Thomas N. T., Amrita Vishwa,”An E-business Chatbot using AIML and LSA,”2016 Intl. Conference on Advances in Computing,
-
-Communications and Informatics (ICACCI), Sept. 21-24, 2016, Jaipur, India
-
-[5] Shawar BA, Atwell E, “A comparison between Alice and Elizabeth chatbot system,”University of Leeds, School of Computing research report
-
-2002.19
-
-[6] S. Laven (2013), “The Simon Lave Page”, Available at: http://www.simonlaven.com
-
-[7] Md. Shahriare Satu, Md. Hasnat Parvez,” Review of integrated applications with AIML based chatbot,”1 st International Conference on
-
-Computer & Information Engineering,Nov 2015,Dept. of CSE, Rajshahi University of Engineering & Technology, Rajshahi, Bangladesh
-
-[8] AsyncTask \| Android Deveoper URL https://developer.android.com/reference/android/os/AsyncTask.html
-
-[9] Java API For JSON Processing \| Oracle URLhttp://www.oracle.com/technetwork/articles/java/json-1973242.html
-
-[10] SpeechRecognizer \| Android Developer URL https://developer.android.com/reference/android/speech/SpeechRecognizer.html
-
-[11] TextToSpeech \| Android Developer URL https://developer.android.com/reference/android/speech/tts/TextToSpeech.html
-
-[12] Rushabh Jain, Burhanuddin Lokhandwala,” Android based Chat-Bot,”International Journal of Computer Applications (0975 – 8887) Volume
-
-137 – No.10, March 2016
+<img src="media/6e7f2d9740d5b7f640e32a17999a46d2.png" width="200"/>
+<img src="media/2c44b6a148f6c60be87914e6b3ab3fe4.png" width="200"/>
